@@ -1,0 +1,14 @@
+body {
+  overflow: hidden;
+}
+
+body .room_container {
+  overflow-y: scroll;
+  max-height: 90vh;
+  min-height: 90vh;
+}
+
+body .card .list-group li {
+  cursor: pointer;
+}
+/*# sourceMappingURL=style.css.map */
